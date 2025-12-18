@@ -4,7 +4,7 @@ Personal portfolio website showcasing my work as a QA Engineer.
 
 ## Live Site
 
-Visit: [https://jpcueva.github.io/portfolio-jpcueva](https://jpcueva.github.io/portfolio-jpcueva)
+Visit: [https://joaquinpiedracueva.github.io](https://joaquinpiedracueva.github.io)
 
 ## Tech Stack
 
@@ -26,10 +26,10 @@ Visit: [https://jpcueva.github.io/portfolio-jpcueva](https://jpcueva.github.io/p
 
 ```bash
 # Clone the repository
-git clone https://github.com/jpcueva/portfolio-jpcueva.git
+git clone https://github.com/joaquinpiedracueva/joaquinpiedracueva.github.io.git
 
 # Navigate to the project
-cd portfolio-jpcueva
+cd joaquinpiedracueva.github.io
 
 # Start a local server (using any of these options)
 npx live-server
@@ -41,25 +41,22 @@ open index.html
 
 ## Deploy to GitHub Pages
 
+This is a GitHub Pages user site (`username.github.io`), so deployment is automatic:
+
 1. Push your code to the `main` branch
-2. Go to repository **Settings** > **Pages**
-3. Under "Source", select **Deploy from a branch**
-4. Select `main` branch and `/ (root)` folder
-5. Click **Save**
-6. Your site will be available at `https://<username>.github.io/portfolio-jpcueva`
+2. GitHub Pages will automatically deploy from the `main` branch
+3. Your site will be available at `https://joaquinpiedracueva.github.io`
 
 ## Project Structure
 
 ```
-portfolio-jpcueva/
-├── index.html          # Main HTML file
-├── style.css           # Styles and animations
-├── script.js           # JavaScript functionality
-├── favicon.svg         # Site favicon (3D cube)
-├── bg-main.png         # Background image (original)
-├── bg-main-extended.png    # Extended background
-├── bg-main-grayscale.png   # Grayscale background
-└── README.md           # This file
+joaquinpiedracueva.github.io/
+├── index.html              # Main HTML file
+├── style.css               # Styles and animations
+├── script.js               # JavaScript functionality
+├── favicon.svg             # Site favicon (3D cube)
+├── background.png          # Background image
+└── README.md               # This file
 ```
 
 ## License
@@ -69,5 +66,5 @@ MIT License - Feel free to use this as inspiration for your own portfolio.
 ## Contact
 
 - LinkedIn: [piedracuevajoaquin](https://www.linkedin.com/in/piedracuevajoaquin/)
-- GitHub: [jpcueva](https://github.com/jpcueva)
+- GitHub: [joaquinpiedracueva](https://github.com/joaquinpiedracueva)
 - Email: piedracuevajoaquin@gmail.com
