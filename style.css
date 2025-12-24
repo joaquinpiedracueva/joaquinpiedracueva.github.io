@@ -576,6 +576,21 @@ body {
     padding: 32px;
 }
 
+a.project-card {
+    text-decoration: none;
+    color: inherit;
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+a.project-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+a.project-card:hover .project-link-icon {
+    color: var(--color-text);
+}
+
 .project-header {
     display: flex;
     justify-content: space-between;
@@ -592,6 +607,11 @@ body {
     background: rgba(255, 255, 255, 0.05);
     border-radius: 12px;
     color: var(--color-text-secondary);
+}
+
+.project-link-icon {
+    color: var(--color-text-muted);
+    transition: color var(--transition-fast);
 }
 
 .project-links {
