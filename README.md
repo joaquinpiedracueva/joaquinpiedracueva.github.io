@@ -1,4 +1,4 @@
-# Joaquín Piedra Cueva - Portfolio
+# Joaquin Piedra Cueva
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2b3137?logo=github)](https://joaquinpiedracueva.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-2b3137?logo=github&logoColor=white)](https://github.com/joaquinpiedracueva)
